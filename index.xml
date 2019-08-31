@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>谪仙岛</title>
-    <link>https://Zzzz-2016.github.io/</link>
+    <link>http://Zzzz-2016.github.io/</link>
     <description>Recent content on 谪仙岛</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 20 Apr 2019 23:10:44 +0800</lastBuildDate>
     
-	<atom:link href="https://Zzzz-2016.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://Zzzz-2016.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Links</title>
-      <link>https://Zzzz-2016.github.io/links/</link>
+      <link>http://Zzzz-2016.github.io/links/</link>
       <pubDate>Sat, 20 Apr 2019 23:10:44 +0800</pubDate>
       
-      <guid>https://Zzzz-2016.github.io/links/</guid>
+      <guid>http://Zzzz-2016.github.io/links/</guid>
       <description>本页面为 hugo素锦主题 友情链接承载页面。 申请友链请加入Hugo&amp;amp;Hexo博客群：80151</description>
     </item>
     
     <item>
       <title>Archives</title>
-      <link>https://Zzzz-2016.github.io/archives/</link>
+      <link>http://Zzzz-2016.github.io/archives/</link>
       <pubDate>Sat, 20 Apr 2019 13:29:27 +0800</pubDate>
       
-      <guid>https://Zzzz-2016.github.io/archives/</guid>
+      <guid>http://Zzzz-2016.github.io/archives/</guid>
       <description></description>
     </item>
     
